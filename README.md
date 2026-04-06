@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26521448/README.md)
+[README.md](https://github.com/user-attachments/files/26521485/README.md)
 <h1 align="center">Hey, I'm Michael 👋</h1>
 
 <p align="center">
@@ -18,12 +18,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Broadcast Engineer** with a passion for the technology that keeps live TV, radio, and media workflows running. My world sits at the intersection of traditional broadcast and modern IP-based infrastructure — from signal chains and codecs to cloud-hosted services and networked media.
+I'm a **Live Broadcast Engineer** with 8 years of experience across audio operations, MCR, and live engineering — supporting global sports broadcasts and transmission workflows at scale.
 
-- 📡 Working with **IP video & audio** workflows and protocols
-- ☁️ Building and deploying on **AWS** (EC2 & S3)
-- 🎬 Deep knowledge of **video and audio codecs** across broadcast environments
-- 🌱 Growing my presence on GitHub to document projects and share knowledge
+- 🟠 Currently at **Amazon**, delivering live events worldwide with a focus on real-time monitoring, troubleshooting, and broadcast chain support
+- ⚽ Previously at **DAZN**, building expertise in satellite operations, audio mixing, QC, and control room coordination
+- 🎚️ Skilled in **Dante**, **Dolby Atmos**, audio codecs, IP broadcasting, and video compression standards
+- ☁️ Exploring **AWS** (EC2 & S3) to deepen my cloud infrastructure knowledge
+- 🌱 Building this GitHub as a portfolio of broadcast & cloud engineering work
 - 📍 Based in the UK
 
 ---
@@ -32,10 +33,12 @@ I'm a **Broadcast Engineer** with a passion for the technology that keeps live T
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-EC2%20%26%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Linux-Bash%20%2F%20CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/IP%20Video-SMPTE%202110%20%2F%20NDI-0078D4?style=for-the-badge&logo=network-wired&logoColor=white" alt="IP Video"/>
-  <img src="https://img.shields.io/badge/Codecs-H.264%20%7C%20H.265%20%7C%20AAC-6E40C9?style=for-the-badge&logo=film&logoColor=white" alt="Codecs"/>
+  <img src="https://img.shields.io/badge/IP%20Broadcasting-SMPTE%202110%20%2F%20NDI-0078D4?style=for-the-badge&logo=network-wired&logoColor=white" alt="IP Broadcasting"/>
+  <img src="https://img.shields.io/badge/Dante-Audio%20Networking-E91E63?style=for-the-badge&logoColor=white" alt="Dante"/>
+  <img src="https://img.shields.io/badge/Dolby%20Atmos-Audio-000000?style=for-the-badge&logoColor=white" alt="Dolby Atmos"/>
+  <img src="https://img.shields.io/badge/Video%20Codecs-H.264%20%7C%20H.265-6E40C9?style=for-the-badge&logo=film&logoColor=white" alt="Video Codecs"/>
   <img src="https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20UDP%20%7C%20RTP-00897B?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Linux-Bash%20%2F%20CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
